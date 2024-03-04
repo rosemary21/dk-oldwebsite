@@ -1,0 +1,332 @@
+.artCraft-main {
+    background-image: url("/images/art-work-bg-img.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    height: 92vh;
+    margin-top: 8vh;
+}
+
+.art-main-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+    justify-content: space-between;
+}
+
+.art-main-left h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.art-main-left span {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D4D4D8;
+}
+
+#art-work-search-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#art-work-search-form div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 17px 16px 17px 20px;
+    gap: 13px;
+    width: 408px;
+    height: 45px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.06);
+    backdrop-filter: blur(12px);
+    overflow: hidden;
+}
+
+.form-search-icon {
+    color: #A1A1AA;
+}
+
+.art-work-search-input {
+    width: 320px;
+    height: 32px;
+    outline: none;
+    border: none;
+    color: #A1A1AA;
+    font-size: 16px;
+}
+
+#art-work-search-form button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    width: 408px;
+    height: 45px;
+    background: var(--pink);
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    overflow: hidden;
+}
+
+.art-main-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.art-main-right-img {
+    width: 206.58px;
+    height: 251px;
+    overflow: hidden;
+}
+
+.art-main-right-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.art-main-right h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}
+
+.art-main-right span {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.art-main-right button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 20px;
+    gap: 10px;
+    width: 306px;
+    height: 55px;
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    background: transparent;
+    color: #FFFFFF;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    overflow: hidden;
+}
+
+
+
+/* CATEGORIES */
+
+.artCategoriesTitle {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #151518;
+}
+
+
+.art-img-card-container {
+    margin-top: 40px !important;
+}
+
+.page-title {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #18181B;
+}
+
+.page-desc {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #52525B;
+}
+
+.art-img-card-left {
+    background: linear-gradient(0deg, #090914 0%, rgba(9, 9, 20, 0) 98.51%), url("/images/art-cat-1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    width: 100%;
+    height: 343px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+    justify-content: flex-end;
+    padding: 12px 17px;
+}
+
+.art-img-card-left-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.art-img-card-left h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.art-img-card-left p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.art-img-card-left-group img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.art-img-card-right {
+    background: linear-gradient(0deg, #090914 0%, rgba(9, 9, 20, 0) 98.51%), url("/images/art-cat-2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    width: 100%;
+    height: 343px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+    justify-content: flex-end;
+}
+
+
+.expandBtn {
+    width: fit-content;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    text-align: center;
+    letter-spacing: -0.2px;
+    color: #090914;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.expandBtn i {
+    font-size: 22px;
+}
+
+.card-btn {
+    width: 40px;
+    aspect-ratio: 1/1;
+    display: grid;
+    place-content: center;
+    background: rgba(255, 255, 255, 0.253);
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 15px 75px rgba(27, 25, 68, 0.3);
+    backdrop-filter: blur(13px);
+    border-radius: 7px;
+}
+
+.card-btn i {
+    font-size: 21px;
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+
+    .artCraft-main {
+        padding: 62px 30px;
+    }
+}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 576px) {
+    .artCraft-main {
+        flex-direction: column;
+    }
+
+    .art-main-right {
+        display: none;
+    }
+
+    .art-img-card-left {
+        height: 329px;
+        padding: 12px;
+    }
+
+    .art-img-card-left-group {
+        flex-direction: column;
+    }
+
+    .art-img-card-left-group a {
+        width: 100%;
+    }
+
+    .card-btn {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .artCategoriesTitle {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,42 @@
+.total-container {
+    background: #F8FAFC;
+    padding: 18px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+.total-container div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.total-container p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.total-container h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+}
+
+.continue_transaction {
+    width: 100%;
+    height: 40px;
+    border: 0;
+    outline: 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: var(--pink);
+}

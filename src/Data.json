@@ -1,0 +1,1554 @@
+{
+  "homePage": {
+    "homeNavbar": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "Fashion",
+        "link": "/fashion"
+      },
+      {
+        "title": "Software",
+        "link": "/software"
+      },
+      {
+        "title": "Art/Craft",
+        "link": "/art-craft"
+      },
+      {
+        "title": "About",
+        "link": "/about-us"
+      },
+      {
+        "title": "Contact Us",
+        "link": "/contact-us"
+      }
+    ],
+    "homeCategoriesCards": [
+      {
+        "title": "Software Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at.",
+        "icon": "/images/softaware-dev.png"
+      },
+      {
+        "title": "Fashion Store",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at.",
+        "icon": "/images/fashionIcon.png"
+      },
+      {
+        "title": "Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at.",
+        "icon": "/images/softaware-dev.png"
+      },
+      {
+        "title": "Arts and Craft",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at.",
+        "icon": "/images/art-craft-icon.png"
+      }
+    ],
+    "homeTestimonials": [
+      {
+        "title": "We love Landingfolio! Our designers were using it for their projects, so clients already knew what Landingfolio was and how to use it.",
+        "name": "Chioma Chioma",
+        "position": "Head of Software"
+      },
+      {
+        "title": "I didn't know designing in Webflow could be this individualized. I'd never considered it before, but Landingfolio changed my mind.",
+        "name": "James Doe",
+        "position": "Head of Design"
+      },
+      {
+        "title": "We love Landingfolio! Our designers were using it for their projects, so clients already knew what Landingfolio was and how to use it.",
+        "name": "Philip Louis",
+        "position": "Head of Arts and Crafts"
+      }
+    ],
+    "homeAdCarousel": [
+      {
+        "img": "/images/slide-img-1.png",
+        "title": "Handx Opr"
+      },
+      {
+        "img": "/images/slide-img-2.png",
+        "title": "Handx Opr"
+      },
+      {
+        "img": "/images/slide-img-3.png",
+        "title": "Handx Opr"
+      },
+      {
+        "img": "/images/slide-img-4.png",
+        "title": "Handx Opr"
+      },
+      {
+        "img": "/images/slide-img-5.png",
+        "title": "Handx Opr"
+      }
+    ]
+  },
+  "fashionPage": {
+    "fashionNavbar": [
+      {
+        "innerHtml": "Men",
+        "link": "/fashion"
+      },
+      {
+        "innerHtml": "Women",
+        "link": "/women"
+      },
+      {
+        "innerHtml": "All brands",
+        "link": "/all-brands"
+      },
+      {
+        "innerHtml": "Kids",
+        "link": "/kids"
+      },
+      {
+        "innerHtml": "Customise",
+        "link": "/customise"
+      }
+    ],
+    "fashionCategoryCards": [
+      {
+        "title": "For Women",
+        "productCount": "3,495 Products",
+        "buttonText": "Shop Now",
+        "bgImage": "/images/cat-for-women.png",
+        "link": "/women#store"
+      },
+      {
+        "title": "For Men",
+        "productCount": "2,847 Products",
+        "buttonText": "Shop Now",
+        "bgImage": "/images/cat-for-men.png",
+        "link": "/fashion#store"
+      },
+      {
+        "title": "For Kids",
+        "productCount": "385 Products",
+        "buttonText": "Shop Now",
+        "bgImage": "/images/cat-for-kids.png",
+        "link": "/kids#store"
+      },
+      {
+        "title": "Accessories",
+        "productCount": "2,483 Products",
+        "buttonText": "Shop Now",
+        "bgImage": "/images/cat-for-accessories.png",
+        "link": "/all-brands#store"
+      }
+    ],
+    "fashionStore": {
+      "men": [
+        {
+          "id": 1,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 50,
+          "prevLink": "fashion",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 2,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 45,
+          "prevLink": "fashion",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 3,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 41,
+          "prevLink": "fashion",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 4,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 78,
+          "prevLink": "fashion",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 5,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 46,
+          "prevLink": "fashion",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 6,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 27,
+          "prevLink": "fashion",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 7,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 30,
+          "prevLink": "fashion",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 8,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 72,
+          "prevLink": "fashion",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 9,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 44,
+          "prevLink": "fashion",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 10,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 37,
+          "prevLink": "fashion",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 11,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 74,
+          "prevLink": "fashion",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 12,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 56,
+          "prevLink": "fashion",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        }
+      ],
+      "women": [
+        {
+          "id": 13,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 50,
+          "prevLink": "women",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 14,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 45,
+          "prevLink": "women",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 15,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 41,
+          "prevLink": "women",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 16,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 78,
+          "prevLink": "women",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 17,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 46,
+          "prevLink": "women",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 18,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 27,
+          "prevLink": "women",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 19,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 30,
+          "prevLink": "women",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 20,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 72,
+          "prevLink": "women",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 21,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 44,
+          "prevLink": "women",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 22,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-1-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 37,
+          "prevLink": "women",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 23,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 74,
+          "prevLink": "women",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 24,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 56,
+          "prevLink": "women",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        }
+      ],
+      "kids": [
+        {
+          "id": 25,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 50,
+          "prevLink": "kids",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 26,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 45,
+          "prevLink": "kids",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 27,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 41,
+          "prevLink": "kids",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 28,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 78,
+          "prevLink": "kids",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 29,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 46,
+          "prevLink": "kids",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 30,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 27,
+          "prevLink": "kids",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 31,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 30,
+          "prevLink": "kids",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 32,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png",
+            "/images/box-3-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 72,
+          "prevLink": "kids",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 33,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 44,
+          "prevLink": "kids",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 34,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/box-5-bg.png",
+            "/images/box-1-bg.png",
+            "/images/box-6-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 37,
+          "prevLink": "kids",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 35,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/box-2-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-5-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 74,
+          "prevLink": "kids",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 36,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/box-6-bg.png",
+            "/images/box-4-bg.png",
+            "/images/box-2-bg.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 56,
+          "prevLink": "kids",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        }
+      ],
+      "allBrands": []
+    }
+  },
+  "softwarePage": {
+    "navbar": [
+      {
+        "innerHtml": "Home",
+        "link": "/software"
+      },
+      {
+        "innerHtml": "Case Study",
+        "link": "/software#case-study"
+      },
+      {
+        "innerHtml": "Services",
+        "link": "/software#software-services"
+      },
+      {
+        "innerHtml": "Products",
+        "link": "/property-home"
+      },
+      {
+        "innerHtml": "Contact us",
+        "link": "/contact-us"
+      }
+    ],
+    "ourServices": [
+      {
+        "id": 1,
+        "icon": "/images/web-design.png",
+        "title": "Branding",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      },
+      {
+        "id": 2,
+        "icon": "/images/dev-ops.png",
+        "title": "DevOps",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      },
+      {
+        "id": 3,
+        "icon": "/images/ui-ux.png",
+        "title": "UI/UX",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      },
+      {
+        "id": 4,
+        "icon": "/images/frontend-dev.png",
+        "title": "Front-End Development",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      },
+      {
+        "id": 5,
+        "icon": "/images/backend.png",
+        "title": "Backend",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      },
+      {
+        "id": 6,
+        "icon": "/images/cms.png",
+        "title": "CMS",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a. Lacinia purus ac amet."
+      }
+    ],
+    "CASESTUDY": {
+      "description1": "Vively is an Australian tech company with a holistic perspective on health, meaning they focus on three different areas; mind body and spirit. The holistic perspective, represented by the circle, became the foundation for the visual identity.",
+      "description2": "The symbol is a stylized letter V that stands for strength, empathy and wellbeing. The shape can also be interpreted as a bicep or a person with raised arms. The visual element is inspired by the symbol, but to add a more organic feeling, the circles are not perfectly geometrical. Instead they have a slightly hand drawn feeling, giving a sense of human touch to the identity.",
+      "testimonial": "“Tellus amet bibendum sit mus phasellus quis duis lacus. Enim eget sagittis, auctor iaculis nulla semper. In vitae neque integer integer metus, est, tristique fermentum tristique.”",
+      "advertHeader": "We're on a social purpose-driven mission",
+      "adsText1": "We believe that people need a better way to take control of their health in a safer and more supported way",
+      "adsText2": "To do this, we're unlocking the powers of lifestyle and behavioural medicine to help everyone achieve their health goals and prevent long-term disease",
+      "adsText3": "We're a team of leading integrative doctors, behavioural scientists, designers and creators devising a brand new paradigm of healthcare - one that takes a data-driven root-cause approach to health",
+      "adsText4": "If you'd like some help to decide if Vively is right for you, or have some questions, feel free to contact our friendly team"
+    }
+  },
+  "artCraftPage": {
+    "artCraftNavbar": [
+      {
+        "innerHtml": "Home",
+        "link": "/art-craft"
+      },
+      {
+        "innerHtml": "Wall Painting",
+        "link": "/wall-painting"
+      },
+      {
+        "innerHtml": "Hand Crafted",
+        "link": "/hand-craft"
+      },
+      {
+        "innerHtml": "Customise",
+        "link": "/customise"
+      }
+    ],
+    "artCraftStore": {
+      "wallPainting": [
+        {
+          "id": 37,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/wp-1.png",
+            "/images/wp-3.png",
+            "/images/wp-5.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 50,
+          "prevLink": "wall-painting",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 38,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/wp-2.png",
+            "/images/wp-4.png",
+            "/images/wp-6.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 45,
+          "prevLink": "wall-painting",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 39,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/wp-3.png",
+            "/images/wp-5.png",
+            "/images/wp-1.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 41,
+          "prevLink": "wall-painting",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 40,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/wp-4.png",
+            "/images/wp-6.png",
+            "/images/wp-2.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 78,
+          "prevLink": "wall-painting",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 41,
+          "name": "Top Quality Joggers Pant",
+          "price": 4000,
+          "itemImage": [
+            "/images/wp-5.png",
+            "/images/wp-1.png",
+            "/images/wp-3.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 46,
+          "prevLink": "wall-painting",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 42,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/wp-6.png",
+            "/images/wp-2.png",
+            "/images/wp-4.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 27,
+          "prevLink": "wall-painting",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        }
+      ],
+      "handCrafted": [
+        {
+          "id": 43,
+          "name": "Top Quality Joggers Pant",
+          "price": 6300,
+          "itemImage": [
+            "/images/hc-1.png",
+            "/images/hc-3.png",
+            "/images/hc-5.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 12,
+          "size": 50,
+          "prevLink": "hand-craft",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 44,
+          "name": "Top Quality Joggers Pant",
+          "price": 5500,
+          "itemImage": [
+            "/images/hc-2.png",
+            "/images/hc-4.png",
+            "/images/hc-6.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 9,
+          "size": 45,
+          "prevLink": "hand-craft",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 45,
+          "name": "Top Quality Joggers Pant",
+          "price": 12000,
+          "itemImage": [
+            "/images/hc-3.png",
+            "/images/hc-5.png",
+            "/images/hc-1.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 10,
+          "size": 41,
+          "prevLink": "hand-craft",
+          "rating": 5,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 46,
+          "name": "Top Quality Joggers Pant",
+          "price": 8000,
+          "itemImage": [
+            "/images/hc-4.png",
+            "/images/hc-6.png",
+            "/images/hc-2.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 14,
+          "size": 78,
+          "prevLink": "hand-craft",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 47,
+          "name": "Top Quality Joggers Pant",
+          "price": 14000,
+          "itemImage": [
+            "/images/hc-2.png",
+            "/images/hc-1.png",
+            "/images/hc-3.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 21,
+          "size": 46,
+          "prevLink": "hand-craft",
+          "rating": 3,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        },
+        {
+          "id": 48,
+          "name": "Top Quality Joggers Pant",
+          "price": 6500,
+          "itemImage": [
+            "/images/hc-1.png",
+            "/images/hc-2.png",
+            "/images/hc-4.png"
+          ],
+          "description": "Black With White Stripes",
+          "stockQuantity": 17,
+          "size": 27,
+          "prevLink": "hand-craft",
+          "rating": 4,
+          "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "keyIngredient": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.",
+          "howToApply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, scelerisque ut sapien, posuere non. Faucibus egestas consectetur interdum amet id elementum. Lacinia non augue amet at. Nunc fringilla bibendum nisl, vitae nisl."
+        }
+      ]
+    }
+  },
+  "propertySection": {
+    "navbar": [
+      {
+        "id": 1,
+        "title": "Home",
+        "link": "/property-home"
+      },
+      {
+        "id": 2,
+        "title": "Lands",
+        "link": "/property-lands"
+      },
+      {
+        "id": 3,
+        "title": "Apartments",
+        "link": "/property-apartments"
+      },
+      {
+        "id": 4,
+        "title": "Shortlets",
+        "link": "/property-shortlets"
+      },
+      {
+        "id": 5,
+        "title": "Contact",
+        "link": "/contact-us"
+      }
+    ],
+    "about": [
+      {
+        "id": 1,
+        "icon": "/images/art-craft-icon.png",
+        "title": "Transparency",
+        "desc": "Refine and improve user experiences and boost revenue by rapidly testing and validating what drives your customers to purchase and share."
+      },
+      {
+        "id": 2,
+        "icon": "/images/designIcon.png",
+        "title": "Accountability",
+        "desc": "Once integrated, we make it easy to connect Friendbuy into data warehouse, business intelligence, and subscription billing platforms."
+      },
+      {
+        "id": 3,
+        "icon": "/images/fashionIcon.png",
+        "title": "Efficiency",
+        "desc": "Ensure customer happiness and satisfaction with purpose-built features that give quick visibility into referral activity and offer flexibility in managing conversions."
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "category": "Lands",
+        "count": 245,
+        "image": "/images/Property/land-cat.png"
+      },
+      {
+        "id": 2,
+        "category": "Shortlets",
+        "count": 245,
+        "image": "/images/Property/shortlets-cat.png"
+      },
+      {
+        "id": 3,
+        "category": "Apartments",
+        "count": 245,
+        "image": "/images/Property/apartments-cat.png"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": 1,
+        "name": "Jane Cooper",
+        "location": "Los Angeles, CA",
+        "testimonial": "Moderate children at of outweigh it. Unsatiable it considered invitation he travelling insensible. Consulted admitting oh mr up as described.",
+        "img": "/images/Property/test1.png"
+      },
+      {
+        "id": 2,
+        "name": "Robert Fox",
+        "location": "New York City, NY",
+        "testimonial": "The and collecting motionless difficulty son. His hearing staying ten colonel met. Sex drew six easy four dear cold",
+        "img": "/images/Property/test2.png"
+      },
+      {
+        "id": 3,
+        "name": "Leslie Alexander",
+        "location": "Buffalo, NJ",
+        "testimonial": "Sociable on as carriage my position weddings raillery consider. Peculiar trifling absolute and wandered vicinity property yet.",
+        "img": "/images/Property/test3.png"
+      }
+    ],
+    "propertyFilter": [
+      {
+        "id": 1,
+        "value": "Lagos"
+      },
+      {
+        "id": 2,
+        "value": "Abuja"
+      },
+      {
+        "id": 3,
+        "value": "Port Harcourt"
+      },
+      {
+        "id": 4,
+        "value": "Ogun"
+      },
+      {
+        "id": 5,
+        "value": "10M - Above"
+      },
+      {
+        "id": 6,
+        "value": "5M - 10M"
+      },
+      {
+        "id": 7,
+        "value": "1M - 5M"
+      },
+      {
+        "id": 8,
+        "value": "0 - 1M"
+      },
+      {
+        "id": 9,
+        "value": "Lands"
+      },
+      {
+        "id": 10,
+        "value": "Apartment"
+      },
+      {
+        "id": 11,
+        "value": "Shortlets"
+      },
+      {
+        "id": 12,
+        "value": "Offices"
+      }
+    ],
+    "propertyStore": [
+      {
+        "id": 1,
+        "title": "3 Bedroom flat Apartment",
+        "location": "Ikeja, Lagos",
+        "price": 2400000,
+        "roomCount": 3,
+        "toiletCount": 3,
+        "images": [
+          "/images/Property/apartment1.png",
+          "https://media.istockphoto.com/id/178505819/photo/beautiful-newly-constructed-modern-home.jpg?b=1&s=170667a&w=0&k=20&c=bceu1Yp7vfJ2ooK8btc44MeLOPLQokMELUhy4CNWwrg=",
+          "/images/Property/REAL-ESTATE.mp4"
+        ],
+        "desc": "This spacious 3 bedroom flat is ideal for families looking for a comfortable home. The flat comprises three bedrooms, two modern bathrooms, a fully fitted kitchen, and a large living room. With plenty of natural light and ample storage space, this flat provides a comfortable and practical living environment. Located in a convenient area, it offers easy access to local amenities and transport links.",
+        "is3d": true,
+        "navLink": "apartments",
+        "listDesc": [
+          "Made with full cotton 1",
+          "Slim fit for any body 1",
+          "Quality control by JC 1"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "2 Bedroom flat Apartment",
+        "location": "Ajah, Lagos",
+        "price": 5600000,
+        "roomCount": 2,
+        "toiletCount": 2,
+        "images": [
+          "/images/Property/apartment2.png",
+          "https://media.istockphoto.com/id/1396856251/photo/colonial-house.jpg?b=1&s=170667a&w=0&k=20&c=gtwOJj8NhCVhDxz8_JxkN8sJFVjEiT9knHYT8VutTLI=",
+          "/images/Property/REAL-ESTATE.mp4"
+        ],
+        "desc": "This lovely 2 bedroom flat is perfect for small families or couples. It offers a comfortable living space with two bedrooms, a modern bathroom, a fully fitted kitchen, and a cozy living room. The flat also benefits from ample storage space and natural light. Located in a convenient area, this flat is close to local amenities and transport links.",
+        "is3d": true,
+        "navLink": "apartments",
+        "listDesc": [
+          "Made with full cotton 2",
+          "Slim fit for any body 2",
+          "Quality control by JC 2"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "5 Bedroom flat Apartment",
+        "location": "Somolu, Lagos",
+        "price": 10600000,
+        "roomCount": 5,
+        "toiletCount": 5,
+        "images": [
+          "/images/Property/apartment3.png",
+          "https://media.istockphoto.com/id/955129092/photo/suburb-houses-at-dusk.jpg?b=1&s=170667a&w=0&k=20&c=WuL6_AkQa0z0DQsxgL-hmMgaxBGkSwKvLHLp6hUdkos=",
+          "/images/Property/REAL-ESTATE.mp4"
+        ],
+        "desc": "This stunning 5 bedroom flat is perfect for larger families or groups of friends. With five spacious bedrooms, three modern bathrooms, a fully fitted kitchen, and a generous living room, this flat offers plenty of space for comfortable living. The flat also benefits from ample storage space, natural light, and high-quality finishes throughout. Located in a sought-after area, this flat offers easy access to local amenities and transport links.",
+        "is3d": false,
+        "navLink": "apartments",
+        "listDesc": [
+          "Made with full cotton 3",
+          "Slim fit for any body 3",
+          "Quality control by JC 3"
+        ]
+      }
+    ]
+  },
+  "adminPage": {
+    "recentCustomers": [
+      {
+        "id": 1,
+        "name": "Jenny Wilson",
+        "image": "/images/Admin/recent-1.png",
+        "email": "w.lawson@example.com",
+        "price": 11234,
+        "location": "Lagos"
+      },
+      {
+        "id": 2,
+        "name": "Devon Lane",
+        "image": "/images/Admin/recent-2.png",
+        "email": "dat.roberts@example.com",
+        "price": 11159,
+        "location": "Delta State"
+      },
+      {
+        "id": 3,
+        "name": "Jane Cooper",
+        "image": "/images/Admin/recent-3.png",
+        "email": "jgraham@example.com",
+        "price": 10483,
+        "location": "Ogun State"
+      },
+      {
+        "id": 4,
+        "name": "Dianne Russell",
+        "image": "/images/Admin/recent-4.png",
+        "email": "curtis.d@example.com",
+        "price": 9084,
+        "location": "Lagos State"
+      }
+    ],
+    "productsTable": [
+      {
+        "id": 1,
+        "image": "/images/Admin/product1.png",
+        "name": "Bean Bag Chair",
+        "stars": 5,
+        "category": "Art",
+        "date": "07/12/21",
+        "price": 12000,
+        "quantity": 129,
+        "status": "Out of stock"
+      },
+      {
+        "id": 2,
+        "image": "/images/Admin/product2.png",
+        "name": "White Desk",
+        "stars": 4,
+        "category": "Cloths",
+        "date": "08/12/21",
+        "price": 14000,
+        "quantity": 139,
+        "status": "In stock"
+      },
+      {
+        "id": 3,
+        "image": "/images/Admin/product3.png",
+        "name": "Armchair",
+        "stars": 5,
+        "category": "Cloths",
+        "date": "07/11/22",
+        "price": 32000,
+        "quantity": 49,
+        "status": "In stock"
+      },
+      {
+        "id": 4,
+        "image": "/images/Admin/product4.png",
+        "name": "Adirondack Chair",
+        "stars": 4,
+        "category": "Art",
+        "date": "16/08/22",
+        "price": 34200,
+        "quantity": 83,
+        "status": "Out of stock"
+      },
+      {
+        "id": 5,
+        "image": "/images/Admin/product5.png",
+        "name": "White Desk",
+        "stars": 5,
+        "category": "Art",
+        "date": "30/01/23",
+        "price": 8500,
+        "quantity": 41,
+        "status": "In stock"
+      }
+    ],
+    "ordersTable": [
+      {
+        "id": 1,
+        "orderID": "BM9708",
+        "date": "August 05 2018",
+        "time": "10:29 PM",
+        "paymentStatus": "Paid",
+        "total": 12000,
+        "paymentMethod": "Mastercard",
+        "orderStatus": "Shipped"
+      },
+      {
+        "id": 2,
+        "orderID": "BM9709",
+        "date": "August 04 2018",
+        "time": "10:49 PM",
+        "paymentStatus": "Pending",
+        "total": 8000,
+        "paymentMethod": "Visa",
+        "orderStatus": "Processing"
+      },
+      {
+        "id": 3,
+        "orderID": "BM9712",
+        "date": "August 09 2018",
+        "time": "11:29 AM",
+        "paymentStatus": "Paid",
+        "total": 12000,
+        "paymentMethod": "Visa",
+        "orderStatus": "Delivered"
+      },
+      {
+        "id": 4,
+        "orderID": "BM9804",
+        "date": "July 05 2019",
+        "time": "12:11 PM",
+        "paymentStatus": "Payment failed",
+        "total": 11400,
+        "paymentMethod": "Paypal",
+        "orderStatus": "Cancelled"
+      },
+      {
+        "id": 5,
+        "orderID": "BM9737",
+        "date": "October 05 2021",
+        "time": "02:44 PM",
+        "paymentStatus": "Payment failed",
+        "total": 12670,
+        "paymentMethod": "Payoneer",
+        "orderStatus": "Cancelled"
+      },
+      {
+        "id": 6,
+        "orderID": "BM9727",
+        "date": "June 05 2021",
+        "time": "04:22 PM",
+        "paymentStatus": "Pending",
+        "total": 1900,
+        "paymentMethod": "Visa",
+        "orderStatus": "Processing"
+      },
+      {
+        "id": 7,
+        "orderID": "BM9810",
+        "date": "August 05 2022",
+        "time": "03:00 PM",
+        "paymentStatus": "Paid",
+        "total": 18500,
+        "paymentMethod": "Visa",
+        "orderStatus": "Shipped"
+      }
+    ],
+    "customers": [
+      {
+        "id": 1,
+        "customerID": "BM9708",
+        "name": "Chioma Franklin",
+        "phoneNumber": "+23488544126",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 2,
+        "customerID": "BM9728",
+        "name": "Johnbull Emeka",
+        "phoneNumber": "+23487511626",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 3,
+        "customerID": "BM9468",
+        "name": "Chioma Franklin",
+        "phoneNumber": "+23481130026",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 4,
+        "customerID": "BM4528",
+        "name": "Emmanuel Poju",
+        "phoneNumber": "+23488544126",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 5,
+        "customerID": "BM9708",
+        "name": "Amos John",
+        "phoneNumber": "+23498985749",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 6,
+        "customerID": "BM9708",
+        "name": "Chioma Franklin",
+        "phoneNumber": "+23488544126",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 7,
+        "customerID": "BM9708",
+        "name": "Emmanuel Poju",
+        "phoneNumber": "+23498985749",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      },
+      {
+        "id": 8,
+        "customerID": "BM9708",
+        "name": "Amos John",
+        "phoneNumber": "+23488884126",
+        "email": "chiomafranklin@gmail.com",
+        "status": "Active"
+      }
+    ]
+  }
+}

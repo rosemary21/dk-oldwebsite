@@ -1,0 +1,124 @@
+.caseStudyMain {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180.05deg, #000000 0.04%, rgba(0, 0, 0, 0) 30.38%, rgba(0, 0, 0, 0) 50.48%, rgba(0, 0, 0, 0.81) 76.37%), url("/images/software-bg-img.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.caseStudyMain .casestudyText {
+    margin-top: 60vh;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.casestudyText-1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.casestudyText-2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.casestudyText-3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.caseStudy-description {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--muted-dark);
+    margin-top: 4rem !important;
+}
+
+.caseStudy-testimonial {
+    font-family: 'Plus Jakarta Sans';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--black);
+    margin-top: 3rem !important;
+}
+
+.caseStudyAds {
+    width: 100%;
+    height: 468px;
+    background-image: url("/images/vively-pic-card.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin-top: 5rem !important;
+}
+
+.caseStudy-adsText {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--muted-light);
+}
+
+.caseStudyAds-desc {
+    width: 80%;
+    margin: 2rem auto !important;
+}
+
+.caseStudyAds-desc h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 28px;
+    color: var(--black);
+    margin-bottom: 1.2rem !important;
+}
+
+.caseStudyAds-desc p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--muted-dark);
+}
+
+@media only screen and (min-width: 992px) {
+    .casestudyText-2 {
+        font-size: 22px;
+    }
+
+    .caseStudyAds {
+        width: 100%;
+        height: 354px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .casestudyText-2 {
+        font-size: 22px;
+    }
+
+    .caseStudyAds {
+        height: 340px;
+    }
+
+    .caseStudyAds-desc h2 {
+        font-size: 19px;
+    }
+}

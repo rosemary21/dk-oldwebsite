@@ -1,0 +1,30 @@
+
+/* DELIVERY BOX */
+.delivery-box {
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    position: relative;
+}
+
+.delivery-box h2 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.5px;
+    color: var(--white);
+    margin-top: 7.5rem;
+}
+
+.delivery-box span {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+    color: var(--white);
+}

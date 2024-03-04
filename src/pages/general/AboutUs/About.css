@@ -1,0 +1,75 @@
+.about-us {
+    padding-top: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.about-desc svg {
+    width: 20px;
+    fill: #e62727;
+}
+
+.about-desc {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+}
+
+.about-desc h1 {
+    font-size: 21px;
+}
+
+.about-desc h1 span {
+    color: #E80E0F;
+}
+
+.about-desc p {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    font-family: "Poppins";
+}
+
+.about-desc button {
+    width: fit-content;
+    height: 40px;
+    background: #E80E0F;
+    border-radius: 9px;
+    outline: none;
+    border: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0 30px;
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .about-us {
+        gap: 10rem;
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 991.8px) {
+    .about-us {
+        gap: 6rem;
+    }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+    .about-us {
+        padding-top: 3rem;
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

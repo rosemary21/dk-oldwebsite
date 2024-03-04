@@ -1,0 +1,39 @@
+{
+  "name": "dk-ts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-datepicker": "^4.11.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-multi-carousel": "^2.8.3",
+    "react-router-dom": "^6.11.2",
+    "react-router-hash-link": "^2.4.3",
+    "recharts": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "@types/react": "^18.0.28",
+    "@types/react-datepicker": "^4.11.2",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-router-hash-link": "^2.4.6",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
+  }
+}

@@ -1,0 +1,21 @@
+.products-container {
+    box-shadow: 0px 8px 16px rgba(143, 149, 178, 0.15);
+    border-radius: 16px;
+    width: 100%;
+    height: 75vh;
+    padding: 0px 14px;
+    margin-top: 1.5rem;
+    position: relative;
+}
+
+.products-container .products-search-sort {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 45;
+}
+
+.stock-table-body {
+    overflow-y: scroll;
+}

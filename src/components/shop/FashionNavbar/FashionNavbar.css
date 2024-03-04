@@ -1,0 +1,39 @@
+.homeNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-icons-container {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    overflow: visible !important;
+}
+
+.nav-icons-container img {
+    width: 17px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.cart-notification-count {
+    position: absolute;
+    top: -2px;
+    right: -8px;
+    min-width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #5754FF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+    display: grid;
+    place-content: center;
+}

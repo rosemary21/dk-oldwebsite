@@ -1,0 +1,226 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+  overflow-x: hidden;
+  box-sizing: border-box !important;
+}
+
+:root {
+  --pink: #E80E0F;
+  --white: #fff;
+  --black: #000;
+  --blue-text: #101828;
+  --border-color-light: #E4E4E7;
+
+
+  --muted-dark: #727171;
+  --muted-light: #aeaeb1;
+  --transition: 400ms ease;
+}
+
+html {
+  scroll-behavior: smooth !important;
+  scroll-padding: 70px 0;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: var(--white);
+
+  color: var(--black);
+}
+
+/* =================== General Stylings ==================== */
+
+section {
+  width: 86%;
+  height: fit-content;
+  margin: 4rem auto;
+}
+
+.logo {
+  width: 50px;
+  aspect-ratio: 1/1;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 8vh !important;
+  overflow-y: hidden !important;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 !important;
+  overflow: hidden;
+}
+
+del {
+  text-decoration: line-through !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input[type="number"]::-webkit-inner-spin-button {
+  display: none;
+  appearance: none;
+}
+
+.title-text {
+  font-size: 22px;
+}
+
+.loggedUser {
+  font-size: 10px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Poppins';
+  color: var(--blue-text);
+  text-align: center;
+}
+
+/* ========== General Pages Styling ========== */
+.checkout-top {
+  width: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1.3rem auto;
+  margin-top: 7rem !important;
+}
+
+.checkout-top i {
+  font-size: 22px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.checkout-top i:hover {
+  color: var(--pink);
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.checkout-top h1 {
+  font-size: 20px;
+  line-height: 2;
+}
+
+.checkout-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+}
+
+.checkout-title div i {
+  cursor: pointer;
+}
+
+.checkout-title h1 {
+  font-size: 22px;
+}
+
+
+/* ====================== Admin Stylings ====================== */
+
+.admin-main {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: var(--white);
+  display: flex;
+  align-items: flex-start;
+}
+
+.admin-main .admin-detail {
+  --width: 240px;
+  width: calc(100vw - var(--width));
+  margin-left: var(--width);
+  background-color: var(--white);
+  padding: 2rem 26px;
+}
+
+.header-row th {
+  font-size: 12px;
+}
+
+/* ========================================= */
+.pagination_btn {
+  border: 0;
+  outline: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  color: #8F95B2;
+  background-color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+}
+
+.active_pagination_btn {
+  border: 1px solid #555;
+  color: #000;
+  background-color: #a8a8a823;
+}
+
+
+
+/* MEDIA QUERY FOR LARGE DEVICES */
+@media only screen and (max-width: 1200px) {
+  section {
+    width: 95%;
+  }
+}
+
+
+/* MEDIA QUERY FOR MEDIUM DEVICES */
+@media only screen and (max-width: 992px) {
+  section {
+    width: 90%;
+  }
+}
+
+
+/* MEDIA QUERY FOR MOBILE DEVICES */
+@media only screen and (max-width: 576px) {
+  * {
+    overflow-x: hidden !important;
+  }
+
+  html {
+    scroll-padding: 90px 0;
+  }
+
+  section {
+    width: 94%;
+  }
+
+  .checkout-top {
+    width: 90%;
+  }
+
+  .modal-card h2 {
+    font-size: 20px;
+  }
+
+  .modal-card i {
+    font-size: 25px;
+  }
+}

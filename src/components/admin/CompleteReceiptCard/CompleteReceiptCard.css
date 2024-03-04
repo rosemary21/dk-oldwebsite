@@ -1,0 +1,112 @@
+.receipt_container {
+    width: min(350px, 100%);
+    height: 190px;
+    background: #FFFFFF;
+    border: 1px solid rgba(146, 146, 146, 0.6);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 18px;
+}
+
+.receipt_up {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.receipt_up img {
+    width: 70px;
+    height: 72px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.property_details div {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.receipt_property_title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    color: #888888;
+}
+
+.receipt_property_name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000000;
+}
+
+.receipt_down {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.receipt_customer_details {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.receipt_customer_details img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.receipt_customer_name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #888888;
+}
+
+.receipt_customer_phone {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: #000000;
+}
+
+.receipt_status_completed {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 4px;
+    gap: 4px;
+    height: 24px;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: -0.006em;
+}
+
+.receipt_status_completed i {
+    font-size: 17px;
+}
+
+.rejection_reason {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    color: red;
+}

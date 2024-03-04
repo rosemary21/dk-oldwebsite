@@ -1,0 +1,368 @@
+.property-main-contents {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.3rem;
+    padding: 0 65px;
+}
+
+.property-main-contents h1 {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 54px;
+    color: var(--pink);
+}
+
+.property-filter {
+    width: min(566px, 100%);
+    height: 248px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: min(16px, 20px);
+    z-index: 4;
+}
+
+.filter-header {
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.filter-header p {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #1A1D1E;
+}
+
+.filter-header button {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: #fff;
+    color: var(--pink);
+    border: 0;
+    outline: 0;
+}
+
+.filter-values {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1rem;
+    row-gap: 0.35rem;
+}
+
+.filter_table {
+    width: 500px;
+}
+
+.filter-values div {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.filter-values h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #252C32;
+}
+
+.filter-values div label {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.006em;
+    color: #252C32;
+}
+
+
+/* SEARCH FORM */
+.apartment-main-form {
+    width: 50%;
+    height: 60px;
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.03), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0227778), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0182222), 0px 20px 13px rgba(0, 0, 0, 0.015), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.0117778), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00722222);
+    z-index: 3;
+    display: grid;
+    grid-template-columns: 34px 1fr 140px;
+    align-items: center;
+
+}
+
+.apartment-main-form i {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10px;
+    color: #afafaf;
+}
+
+.apartment-main-form input {
+    height: 100%;
+    border: 0;
+    padding: 0 30px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.apartment-main-form input:focus {
+    border: 0;
+    outline: 0;
+}
+
+.apartment-main-form button {
+    width: 140px;
+    height: 100%;
+    background: rgb(232, 14, 15);
+    font-size: 17px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: 0px;
+    outline: 0px;
+    cursor: pointer;
+}
+
+
+
+/* LINE BREAK */
+.property-break {
+    background-color: #878787;
+    width: 100%;
+    height: 2px;
+    margin-top: 2rem;
+}
+
+/* PROPERTIES GROUP */
+.property-group {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    gap: 1rem;
+}
+
+
+/* PROPERTY BOX */
+.property-box {
+    width: min(420px, 100%);
+    height: 300px;
+    background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 5px;
+    padding: min(21px, 16px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.property-box-feature {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.property-box-feature p {
+    width: fit-content;
+    height: 26px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    padding: 3px 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.property-box-overlay {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 223px;
+    background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 0px 0px 5px 5px;
+    padding: min(21px, 16px);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.property-box-overlay h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}
+
+.property-box-overlay p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #D4D4D8;
+}
+
+
+/* USER PREFERENCE BOX */
+.user-preference-ad {
+    width: 100%;
+    margin: 5rem 0;
+    display: grid;
+    grid-template-columns: 45% 40%;
+    align-items: center;
+    gap: 5.5rem;
+}
+
+
+.user-pref-left-box {
+    background-image: url("/images/Property/apartment1.png");
+    width: 100%;
+    height: 467px;
+}
+
+.user-pref-right {
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+}
+
+.user-pref-right h2 {
+    width: 100%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #18181B;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.user-pref-right p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #3F3F46;
+}
+
+.user-pref-right button {
+    width: 143px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    border-radius: 10px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--pink);
+    border: 0;
+    outline: 0;
+    background-color: #e80e0f38;
+}
+
+.user-pref-right button i {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .property-main-contents h1 {
+        font-weight: 700;
+        font-size: 40px;
+    }
+
+    .apartment-main-form {
+        width: 82%;
+    }
+
+    /* USER PREFERENCE */
+    .user-preference-ad {
+        grid-template-columns: 1fr 40%;
+    }
+
+    .user-pref-left-box {
+        height: 400px;
+    }
+
+    .user-pref-right h2 {
+        font-size: 35px;
+    }
+
+
+}
+
+@media only screen and (max-width: 992px) {
+
+    /* USER PREFERENCE */
+    .user-preference-ad {
+        gap: 3.5rem;
+    }
+
+    .user-pref-right h2 {
+        font-size: 26px;
+    }
+
+    .user-pref-left-box {
+        height: 350px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .apartment-main-form {
+        width: 100%;
+        height: 45px;
+    }
+
+    .property-main-contents h1 {
+        font-size: 23px;
+    }
+
+    .property-main-contents {
+        padding: 0px 8px;
+    }
+
+    .apartment-main-form {
+        width: 100%;
+    }
+
+    .filter_table {
+        width: 100%;
+    }
+
+    /* USER PREFERENCE */
+    .user-preference-ad {
+        grid-template-columns: 1fr;
+    }
+
+    .user-pref-right h2 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+}

@@ -1,0 +1,28 @@
+.acceptedPayments {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 6px;
+    justify-content: space-between;
+    gap: 3px;
+    background-color: #EAEAEA;
+    margin: 7px 0;
+}
+
+.acceptedPayments img {
+    width: 30px;
+    height: 25px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.accepted_apartments,
+.accepted_price {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    color: #081735;
+}

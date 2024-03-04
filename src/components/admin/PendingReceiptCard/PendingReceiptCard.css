@@ -1,0 +1,68 @@
+.pending_receipt_wrapper {
+    width: 240px;
+    height: 400px;
+    background: #FFFFFF;
+    border: 1px solid #929292;
+    border-radius: 10px;
+    padding: 15px 10px;
+}
+
+.pending_receipt_wrapper::-webkit-scrollbar-track {
+    display: none;
+}
+
+.pending_receipt_wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.pending_receit_img {
+    width: 50px !important;
+    height: 52px !important;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.pending_receit_title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #000000;
+    margin-top: 1rem !important;
+}
+
+.pending_receipt_card {
+    width: 100%;
+    height: fit-content;
+    border: 1px solid #929292;
+    border-radius: 10px;
+    padding: 12px 16px;
+}
+
+.accept_receipt {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    width: fit-content;
+    height: 30px;
+    background: var(--pink);
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    border: 0;
+    outline: 0;
+    padding: 5px 20px;
+}
+
+.reject_receipt {
+    background: #FFFFFF;
+    border: 1px solid #71717A;
+    color: #71717A;
+}
+
